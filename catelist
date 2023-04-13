@@ -1,0 +1,22 @@
+[
+  {
+    "catId": 1,
+    "name": "Sao Hỏa",
+    "image": "saohoa.png"
+  },
+  {
+    "catId": 2,
+    "name": "Sao Thủy",
+    "image": "saothuy.png"
+  },
+  {
+    "catId": 3,
+    "name": "Sao Kim",
+    "image": "saokim.png"
+  },
+  {
+    "catId": 4,
+    "name": "Sao Mộc",
+    "image": "saomoc.png"
+  }
+  ]
