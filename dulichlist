@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "Hinh": "https://dulichkhampha24.com/wp-content/uploads/2021/03/hoi-an-thanh-pho-lang-man-nhat-the-gioi.jpg",
+    "Ten": "Phố Cổ Hội An",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Quảng Nam"
+  },
+  {
+    "id": 2,
+    "Hinh": "https://golden-lotus-hotel.s3.ap-southeast-1.amazonaws.com/uploads/2021/04/013d407166ec4fa56eb1e1f8cbe183b9/images1089892_1.jpg",
+    "Ten": "Vịnh Hạ Long",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Quảng Ninh"
+  },
+  {
+    "id": 3,
+    "Hinh": "https://baoquocte.vn/stores/news_dataimages/dieulinh/102020/23/18/4300_Cao_nguyen_Ya_YYng_VYn_Ha_Giang..jpg?rt=20201028140634",
+    "Ten": "Cao Nguyên Đá Đồng Văn ",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Hà Giang"
+  },
+  {
+    "id": 4,
+    "Hinh": "https://tourdanangcity.vn/wp-content/uploads/2021/04/co-do-hue-9.jpg",
+    "Ten": "Cố Đô Huế",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Huế"
+  },
+  {
+    "id": 5,
+    "Hinh": "https://statics.vinpearl.com/lang-chai-cua-van-1_1629259357.png",
+    "Ten": "Làng Chài Cửa Vạn",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Hạ Long"
+  },
+  {
+    "id": 6,
+    "Hinh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/1-10.jpg",
+    "Ten": "Nhà Thờ Đức Bà",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "TP. Hồ Chí Minh"
+  },
+  {
+    "id": 7,
+    "Hinh": "https://i-dulich.vnecdn.net/2022/04/12/Binh-Ba-VnExpress-Rua-Hay-Xin-2323-1649736224.jpg",
+    "Ten": "Đảo Bình Ba",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Khánh Hòa"
+  },
+  {
+    "id": 8,
+    "Hinh": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20190923_Independence_Palace-10.jpg/1200px-20190923_Independence_Palace-10.jpg",
+    "Ten": "Dinh Độc Lập",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "TP. Hồ Chí Minh"
+  },
+  {
+    "id": 9,
+    "Hinh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/09/cho-noi-cai-be-tien-giang-vntrip8-1.jpg",
+    "Ten": "Chợ Nổi Cái Bè",
+    "HinhDiaChi": "hinhdiachi.png",
+    "TenTinh": "Tiền Giang"
+  }
+]
